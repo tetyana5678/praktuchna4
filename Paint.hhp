@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Paint.chm
+Contents file=Table of Contents.hhc
+Default Font=@Arial Unicode MS,12,0
+Default topic=main.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x422 Українська (Україна)
+Title=Довідка до практичної роботи №3
+
+
+[FILES]
+history.htm
+main.htm
+interfeus Paint.htm
+
+[INFOTYPES]
+
